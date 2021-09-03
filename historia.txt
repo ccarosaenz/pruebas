@@ -7,3 +7,5 @@ Ah, también tiene una moto akt.
 Hoy trabaja en Bancolombia.
 
 Ahora diré que estoy aprendiendo programación, empezando por el curso de git.
+
+Ahora sé cómo usar git.
